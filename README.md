@@ -20,6 +20,8 @@ Absolute beginners, please start at the beginning and go in order.
 If you've kinda tinkered with html css or js, or you're coming from another language, just start at whichever example looks the most interesting. 
 
 
-Figure it out! Does this break it? Does this work? Only one way to find out. Try it.
+As you progress, you may find it hard to figure out certain examples. Let me know and I'll be sure to update it with more comments. Other than that, figure it out! Does this break it? Does this work? Only one way to find out. Try it. Don't waste you're time not reading code. Reading and trying code is how you progress. All the time I wonder if this save will break my code or not, so SAVE OFTEN!
 
-If you find this repo useful, please let me know. I'll continute to add more examples. 
+If you find this repo useful, please let me know. I'll continute to add more examples. I am in no way a teacher nor have I tested learning by examples like this. I do think I could have learned much faster with this strategy, but I didn't have easy beginner examples.
+
+
